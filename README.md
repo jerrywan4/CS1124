@@ -1,7 +1,7 @@
 # CS1124
 Object-Oriented Programming
 
-###Author
+### Author
 Jerry Wan
 
 ## Topics
